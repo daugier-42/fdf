@@ -4,15 +4,15 @@
 </span>
 <h2 align="center">Exemple de Map</h2>
 <p align="center">
-    <img align="center" width="40%" src="https://raw.githubusercontent.com/daugier/fdf/master/img/img5.png"/>
+    <img align="center" width="40%" src="img/img5.png"/>
     <br/>
-    <img align="center" width="60%" src="https://raw.githubusercontent.com/daugier/fdf/master/img/img6.png"/>
+    <img align="center" width="60%" src="img/img6.png"/>
 </p>
 <h2 align="center">Exemple rendu du programme</h2>
 <p align="center">
-    <img width="70%" src="https://raw.githubusercontent.com/daugier/fdf/master/img/img1.png"/>
+    <img width="70%" src="img/img1.png"/>
     <br/>
-    <img width="60%" src="https://raw.githubusercontent.com/daugier/fdf/master/img/img2.png"/>
+    <img width="60%" src="img/img2.png"/>
     <br/>
-    <img width="70%" src="https://raw.githubusercontent.com/daugier/fdf/master/img/img3.png"/>
+    <img width="70%" src="img/img3.png"/>
 </p>
